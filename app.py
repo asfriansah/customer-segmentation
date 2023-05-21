@@ -38,12 +38,12 @@ with st.sidebar:
               </div>
               <div style="text-align: justify;">
                     <ol>
-                        <li>Cluster 0 : <b>Low-earning single men</b></li>
-                        <li>Cluster 1 : <b>Low-earning non-single women</b></li>
-                        <li>Cluster 2 : <b>High-earning non-single women</b></li>
-                        <li>Cluster 3 : <b>High-earning single men</b></li>
-                        <li>Cluster 4 : <b>Avarage-earning non-single men</b></li>
-                        <li>Cluster 5 : <b>Low-earning single women</b></li>
+                        <li>Cluster 0: Low-earning single men</li>
+                        <li>Cluster 1: Low-earning non-single women</li>
+                        <li>Cluster 2: High-earning non-single women</li>
+                        <li>Cluster 3: High-earning single men</li>
+                        <li>Cluster 4: Avarage-earning non-single men</li>
+                        <li>Cluster 5: Low-earning single women</li>
                     </ol>
               </div>"""
     st.markdown(desc, unsafe_allow_html=True)
