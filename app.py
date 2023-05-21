@@ -37,14 +37,14 @@ with st.sidebar:
                     The result is that customers are divided into 6 clusters.
               </div>
               <div style="text-align: justify;">
-                    <ol>
+                    <ul>
                         <li>Cluster 0: Low-earning single men</li>
                         <li>Cluster 1: Low-earning non-single women</li>
                         <li>Cluster 2: High-earning non-single women</li>
                         <li>Cluster 3: High-earning single men</li>
                         <li>Cluster 4: Avarage-earning non-single men</li>
                         <li>Cluster 5: Low-earning single women</li>
-                    </ol>
+                    </ul>
               </div>"""
     st.markdown(desc, unsafe_allow_html=True)
 
