@@ -33,11 +33,11 @@ with st.sidebar:
     desc = """<div style="text-align: justify;">
                     This is an application to predict the segmentation of customers based on their demographic 
                     profile. This application is based on data from visitors to a mall. 
-                    Processed using the K-Means unsupervised learning algorithm model. 
-                    The result is that customers are divided into 6 clusters.
+                    Processed using the K-Means unsupervised learning algorithm model.
               </div>
               <div style="text-align: justify;">
-                    <ul>
+                    <ul> 
+                    The result is that customers are divided into 6 clusters.
                         <li>Cluster 0: Low-earning single men</li>
                         <li>Cluster 1: Low-earning non-single women</li>
                         <li>Cluster 2: High-earning non-single women</li>
