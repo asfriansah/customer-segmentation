@@ -39,10 +39,10 @@ with st.sidebar:
               <div style="text-align: justify;">
                     <ol>
                         <li>Cluster 0 : <b>Low-earning single men</b></li>
-                        <li>Cluster 1 : <b>Low-earning maried women</b></li>
-                        <li>Cluster 2 : <b>High-earning maried women</b></li>
+                        <li>Cluster 1 : <b>Low-earning non-single women</b></li>
+                        <li>Cluster 2 : <b>High-earning non-single women</b></li>
                         <li>Cluster 3 : <b>High-earning single men</b></li>
-                        <li>Cluster 4 : <b>Avarage-earning maried men</b></li>
+                        <li>Cluster 4 : <b>Avarage-earning non-single men</b></li>
                         <li>Cluster 5 : <b>Low-earning single women</b></li>
                     </ol>
               </div>"""
